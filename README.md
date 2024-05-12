@@ -93,10 +93,10 @@ The main features of LPC2148 include the following.
 ```
 ## Output  :
 ### LED ON
-<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/33b3bcd4-f4ff-4d3c-9145-e2e425d1a936" width="700" height="800">
+<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/33b3bcd4-f4ff-4d3c-9145-e2e425d1a936" width="600" height="600">
 
 ### LED OFF
-<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/0443f83b-e924-4763-9357-b01faff24126" width="700" height="800">
+<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/0443f83b-e924-4763-9357-b01faff24126" width="600" height="600">
 
  
 ## Result :
